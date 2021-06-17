@@ -1,0 +1,44 @@
+body{
+    background: rgba(255, 241, 235, 0.87);
+}
+.login-container{
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    text-align: center;
+    color: #ff5827;
+}
+.card{
+    background: rgba(255, 255, 255, 0.89);
+    border: 3px solid orangered;
+}
+.fa-swimmer{
+    color: #1f65f3;
+}
+.fa-biking{
+    color: #000000;
+}
+.fa-running{
+    color: orangered;
+}
+
+p{
+    margin: 10px 0 !important;
+}
+.navbar{
+    background: orangered;
+}
+
+.btn2{
+    font-size: 20px;
+}
+
+.btn{
+    background: orangered;
+}
+hr{
+    border-top: 1px dashed orangered;
+}
+.logo{
+    font-size: 100px;
+}
